@@ -6,3 +6,4 @@ def no_spaces_in_ending_text(text):
 
 text = input("Enter text: ")
 result = no_spaces_in_ending_text(text)
+print(result)
