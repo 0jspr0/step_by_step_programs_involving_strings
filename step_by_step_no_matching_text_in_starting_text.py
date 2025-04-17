@@ -1,0 +1,1 @@
+def no_matching_text_in_starting_text(text, text_to_remove):
