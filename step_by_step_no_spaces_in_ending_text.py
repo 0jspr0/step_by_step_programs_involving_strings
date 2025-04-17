@@ -5,3 +5,4 @@ def no_spaces_in_ending_text(text):
     return text[:ending_spaces + 1]
 
 text = input("Enter text: ")
+result = no_spaces_in_ending_text(text)
