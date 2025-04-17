@@ -5,3 +5,4 @@ def no_spaces_in_starting_text(text):
     return text[starting_spaces:]
 
 text = input("Enter text: ")
+result = no_spaces_in_starting_text(text)
