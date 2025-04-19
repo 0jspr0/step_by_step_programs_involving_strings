@@ -1,0 +1,1 @@
+def all_letters_uppercase_checker(text):
