@@ -8,3 +8,4 @@ def lowercase_letters(text):
     return result
 
 text = input("Enter text: ")
+result = lowercase_letters(text)
