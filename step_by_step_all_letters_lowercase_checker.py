@@ -6,3 +6,4 @@ def all_letters_lowercase_checker(text):
 
 text = input("Enter text: ")
 result = all_letters_lowercase_checker(text)
+print(result)
