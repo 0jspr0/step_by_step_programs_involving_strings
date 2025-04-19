@@ -8,3 +8,4 @@ def uppercase_letters(text):
     return result
 
 text = input("Enter text: ")
+result = uppercase_letters(text)
