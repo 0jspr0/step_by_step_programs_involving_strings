@@ -6,3 +6,5 @@ def lowercase_letters(text):
         else:
             result += i
     return result
+
+text = input("Enter text: ")
