@@ -9,3 +9,4 @@ def lowercase_letters(text):
 
 text = input("Enter text: ")
 result = lowercase_letters(text)
+print(result)
