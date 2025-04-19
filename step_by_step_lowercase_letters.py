@@ -5,3 +5,4 @@ def lowercase_letters(text):
             result += chr(ord(i) + 32)
         else:
             result += i
+    return result
