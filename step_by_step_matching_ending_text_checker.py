@@ -1,3 +1,4 @@
 def matching_ending_text_checker(text, ending_text):
     if len(ending_text) > len(text):
         return False
+    return text[-len(ending_text):] == ending_text
