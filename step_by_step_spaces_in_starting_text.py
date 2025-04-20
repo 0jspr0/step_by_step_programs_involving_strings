@@ -1,0 +1,1 @@
+def spaces_in_starting_text(text, number_of_spaces):
