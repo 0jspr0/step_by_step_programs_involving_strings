@@ -1,0 +1,1 @@
+def spaces_in_ending_text(text, number_of_spaces):
