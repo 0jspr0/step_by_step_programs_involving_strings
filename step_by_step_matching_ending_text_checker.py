@@ -1,0 +1,1 @@
+def matching_ending_text_checker(text, ending_text):
