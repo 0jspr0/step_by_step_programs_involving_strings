@@ -6,3 +6,4 @@ def matching_starting_text_checker(text, starting_text):
 text = input("Enter text: ")
 starting_text = input("Enter starting text: ")
 result = matching_starting_text_checker(text, starting_text)
+print(result)
