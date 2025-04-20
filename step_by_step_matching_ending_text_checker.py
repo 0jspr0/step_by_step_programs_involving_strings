@@ -4,3 +4,4 @@ def matching_ending_text_checker(text, ending_text):
     return text[-len(ending_text):] == ending_text
 
 text = input("Enter text: ")
+ending_text = input("Enter ending text: ")
