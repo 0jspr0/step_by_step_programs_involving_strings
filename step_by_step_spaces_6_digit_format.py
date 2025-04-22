@@ -6,3 +6,4 @@ def spaces_6_digit_format(number):
 
 number = input("Enter a number: ")
 result = spaces_6_digit_format(number)
+print(result)
