@@ -1,0 +1,1 @@
+def spaces_6_digit_format(number):
