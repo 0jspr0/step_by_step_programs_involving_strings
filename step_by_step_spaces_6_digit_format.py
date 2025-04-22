@@ -5,3 +5,4 @@ def spaces_6_digit_format(number):
     return "0" * number_of_zeros + number
 
 number = input("Enter a number: ")
+result = spaces_6_digit_format(number)
