@@ -11,3 +11,4 @@ def reversed_case_letters(text):
 
 text = input("Enter text: ")
 result = reversed_case_letters(text)
+print(result)
