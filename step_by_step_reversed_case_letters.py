@@ -8,3 +8,5 @@ def reversed_case_letters(text):
         else:
             result += i
     return result
+
+text = input("Enter text: ")
