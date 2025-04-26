@@ -5,3 +5,4 @@ def matching_text_count(text, text_to_count):
         index = text.find(text_to_count, index)
         if index == -1:
             break
+        text_count += 1
