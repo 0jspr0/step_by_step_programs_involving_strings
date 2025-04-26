@@ -12,3 +12,4 @@ def matching_text_count(text, text_to_count):
 text = input("Enter text: ")
 text_to_count = input("Enter text to count: ")
 result = matching_text_count(text, text_to_count)
+print(result)
