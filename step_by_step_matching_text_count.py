@@ -8,3 +8,5 @@ def matching_text_count(text, text_to_count):
         text_count += 1
         index += len(text_to_count)
     return text_count
+
+text = input("Enter text: ")
